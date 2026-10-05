@@ -1,0 +1,18 @@
+✔ LibraryTest.testAddAssignsSequentialIdsAfterSeed
+✔ LibraryTest.testBorrowAndReturnMessages
+✔ LibraryTest.testBorrowSeededBorrowedBook
+✔ LibraryTest.testEmptyLibrary
+✔ LibraryTest.testListAllOrderAndCopy
+✔ LibraryTest.testSeedDataLoaded
+✔ LibraryTest.testUnknownIdMessages
+✔ SearchAndDeleteTest.testAddAfterDeletingAllContinuesIdSequence
+✔ SearchAndDeleteTest.testDeleteDoesNotReuseId
+✔ SearchAndDeleteTest.testDeleteSuccessKeepsRemainingBooks
+✔ SearchAndDeleteTest.testDeleteUnknownId
+✔ SearchAndDeleteTest.testDeletedBookIsInvisibleEverywhere
+✔ SearchAndDeleteTest.testSearchDoesNotMatchAuthor
+✔ SearchAndDeleteTest.testSearchIsCaseSensitive
+✔ SearchAndDeleteTest.testSearchMatchesPartialKeyword
+✔ SearchAndDeleteTest.testSearchNoMatchAndEmptyKeyword
+
+通过 16 / 失败 0
